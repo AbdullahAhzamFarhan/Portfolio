@@ -1,7 +1,13 @@
 <div align="center">
 
+  <!-- Profile Image / Avatar -->
+  <img src="YOUR_IMAGE_URL_HERE" alt="Abdullah Ahzam Farhan" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+
+  <br />
+  <br />
+
   <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/AbdullahAhzamFarhan">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Abdullah+Ahzam+Farhan;MERN+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%26+IoT+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
@@ -46,27 +52,27 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> 
   </a> &nbsp;
   <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> 
   </a> &nbsp;
   <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> 
   </a> &nbsp;
   <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
   </a> &nbsp;
   <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
   </a> &nbsp;
   <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3.org/html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> 
   </a> &nbsp;
   <!-- CSS3 -->
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> 
   </a>
 </p>
